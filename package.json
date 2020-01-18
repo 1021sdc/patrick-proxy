@@ -1,19 +1,19 @@
 {
   "name": "Airbnb-photos-proxy",
   "version": "1.0.0",
-  "description": "",
+  "description": "An open source real estate listing item page",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server/server.js",
-    "start-node": "node server/server.js"
+    "start": "node server/server.js",
+    "start-nodemon": "nodemon server/server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hacker-home/Airbnb-photos-proxy.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Patrick Bennett",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hacker-home/Airbnb-photos-proxy/issues"
